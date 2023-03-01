@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.count {
+  font-size: 16px;
+}
+button {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 2px 3px 2px 3px lightblue;
+}
+.incr {
+  background-color: green;
+}
+.decr {
+  background-color: yellow;
+}
